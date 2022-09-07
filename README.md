@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Debarjunchakma
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning WEB development 
+- 🌱 I’m currently writing a Book on Python 
 - 💞️ I’m looking to collaborate on CSS 
 - 📫 How to reach me https://twitter.com/Debarjunchakma
 
