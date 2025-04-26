@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Debarjun Chakma 👋<br><br>I'm the Founder and CEO of NexaServe, specializing in tech services like website development,<br>data penetration, software testing, and more. With a strong background in Civil Engineering and Data Science,<br>I bring a diverse skill set to every project
+Hi there, I'm Debarjun Chakma 👋<br><br>I'm a Data scientist with a strong background in Civil Engineering and Data Science,<br>I bring a diverse skill set to every project
 
 
 ## 🌐 Socials:
