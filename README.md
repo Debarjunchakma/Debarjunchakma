@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Debarjun Chakma! 👋</h1>
 <p align="center">
-  Aspiring Software Developer | B.Tech CSE @ NIU India <br/>
+  Aspiring Data Scientist | B.Tech CSE @ NIU India <br/>
   From Civil Engineering to Coding | Dreaming Big | MSc Abroad Aspirant
 </p>
 
